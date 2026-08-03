@@ -91,6 +91,10 @@ vinyl-image-generator/
 
 Issues and pull requests are welcome. Changes should preserve the mandatory four-object layout, fictional-artist safeguards, physical-material logic, and negative constraints. Keep the skill instructions focused and validate the folder before submitting.
 
+## Contributors
+
+- [@liigoQi](https://github.com/liigoQi) — creator and maintainer
+
 ## License
 
 Released under the [MIT License](LICENSE).
