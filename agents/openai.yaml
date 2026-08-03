@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vinyl Image Generator"
+  short_description: "Turn memories into complete fictional vinyl releases"
+  default_prompt: "Use $vinyl-image-generator to transform this idea into a cohesive fictional vinyl release artifact."
